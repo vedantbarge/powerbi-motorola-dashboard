@@ -10,7 +10,7 @@ This project visualizes Motorola's sales data using Power BI.
 
 ## Tools Used
 - Power BI
-- Excel (for raw data)
+- Excel (for raw data).
 
 📄 Download the PBIX file and view the dashboard in Power BI Desktop.
 
